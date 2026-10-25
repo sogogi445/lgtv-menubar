@@ -1,0 +1,6 @@
+build/
+tools/.certs/
+.DS_Store
+*.dmg
+*.zip
+release/
